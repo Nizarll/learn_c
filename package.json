@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "markdown-to-html --output coverage/index.html"
+  },
+  "devDependencies": {
+    "markdown-to-html-cli": "latest"
+  }
+}

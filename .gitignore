@@ -1,0 +1,10 @@
+*.rar
+coverage/
+coverage
+node_modules/
+node_modules
+node_modules/**
+node_modules/*
+package-lock.json
+*.Identifier
+**/*.Identifier
